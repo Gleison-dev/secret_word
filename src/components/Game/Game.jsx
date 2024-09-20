@@ -1,3 +1,5 @@
+import "./Game.css";
+
 export default function Game({ verifyLetter }) {
   return (
     <>
